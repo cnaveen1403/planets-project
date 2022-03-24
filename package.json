@@ -1,0 +1,22 @@
+{
+  "name": "planets-project",
+  "version": "1.0.0",
+  "description": "Projects to learn about planets from nasa's kepler archive",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cnaveen1403/planets-project.git"
+  },
+  "author": "C Naveen Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cnaveen1403/planets-project/issues"
+  },
+  "homepage": "https://github.com/cnaveen1403/planets-project#readme",
+  "dependencies": {
+    "csv-parse": "^5.0.4"
+  }
+}
